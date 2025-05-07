@@ -1,0 +1,290 @@
+{
+  "id": "15185ed4-3e18-4e47-a521-8633465e0b9d",
+  "title": "satee",
+  "author": "",
+  "description": "own course",
+  "license": "by-sa",
+  "metadata": {
+    "author": {},
+    "site": {
+      "name": "satee",
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true
+      },
+      "created": 1746625652,
+      "updated": 1746625801,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
+    },
+    "theme": {
+      "element": "clean-one",
+      "path": "@haxtheweb/clean-one/clean-one.js",
+      "name": "Clean course theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
+      "variables": {
+        "icon": "av:stop",
+        "hexCode": "#3f51b5",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7"
+      }
+    },
+    "node": {
+      "fields": {}
+    },
+    "build": {
+      "version": "10.0.2",
+      "structure": "course",
+      "type": "own"
+    }
+  },
+  "items": [
+    {
+      "id": "item-5926b0d2-a408-4b25-8f88-6c39436ba0af",
+      "indent": 0,
+      "location": "pages/item-5926b0d2-a408-4b25-8f88-6c39436ba0af/index.html",
+      "slug": "welcome",
+      "order": 1,
+      "parent": null,
+      "title": "Welcome to satu",
+      "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
+      "metadata": {
+        "created": 1746625650,
+        "updated": 1746625801,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-60b9f10e-3acd-4421-acfa-487a4914ae1b",
+      "indent": 1,
+      "location": "pages/item-60b9f10e-3acd-4421-acfa-487a4914ae1b/index.html",
+      "slug": "welcome-to-satee-copy",
+      "order": 0,
+      "parent": "item-5926b0d2-a408-4b25-8f88-6c39436ba0af",
+      "title": "Welcome to satee Copy",
+      "description": "",
+      "metadata": {
+        "created": 1746625664,
+        "updated": 1746625801,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-ef8806ea-588d-4c75-9023-9ed9cf07a0d8",
+      "indent": 2,
+      "location": "pages/item-ef8806ea-588d-4c75-9023-9ed9cf07a0d8/index.html",
+      "slug": "welcome-to-satee-copy-copy",
+      "order": 0,
+      "parent": "item-60b9f10e-3acd-4421-acfa-487a4914ae1b",
+      "title": "Welcome to satee Copy Copy",
+      "description": "",
+      "metadata": {
+        "created": 1746625666,
+        "updated": 1746625801,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-b94b15a8-ef97-42bc-9f1f-920a98f5ba0d",
+      "indent": 1,
+      "location": "pages/item-b94b15a8-ef97-42bc-9f1f-920a98f5ba0d/index.html",
+      "slug": "welcome/copy-of-welcome-to-satee-copy",
+      "order": 1,
+      "parent": "item-5926b0d2-a408-4b25-8f88-6c39436ba0af",
+      "title": "Copy of Welcome to satee Copy",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1746625700,
+        "images": [],
+        "videos": [],
+        "updated": 1746625801,
+        "published": true,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-1e829331-d7e8-4a63-8888-65fc507ad320",
+      "indent": 2,
+      "location": "pages/item-1e829331-d7e8-4a63-8888-65fc507ad320/index.html",
+      "slug": "welcome/copy-of-welcome-to-satee-copy/copy-of-welcome-to-satee-copy-copy",
+      "order": 0,
+      "parent": "item-b94b15a8-ef97-42bc-9f1f-920a98f5ba0d",
+      "title": "Copy of Welcome to satee Copy Copy",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1746625700,
+        "images": [],
+        "videos": [],
+        "updated": 1746625801,
+        "published": true,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-3ba08dd3-1f56-4f55-8448-ff9b1a370021",
+      "indent": 0,
+      "location": "pages/item-3ba08dd3-1f56-4f55-8448-ff9b1a370021/index.html",
+      "slug": "copy-of-welcome-to-satee-copy-copy",
+      "order": 2,
+      "parent": null,
+      "title": "Copy of Welcome to satee Copy Copy",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1746625700,
+        "images": [],
+        "videos": [],
+        "updated": 1746625801,
+        "published": true,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-2b61d2fb-8562-46ff-a87d-fbef9591254f",
+      "indent": 0,
+      "location": "pages/item-2b61d2fb-8562-46ff-a87d-fbef9591254f/index.html",
+      "slug": "copy-of-copy-of-welcome-to-satee-copy-copy",
+      "order": 3,
+      "parent": null,
+      "title": "Selamat 2",
+      "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
+      "metadata": {
+        "locked": false,
+        "created": 1746625700,
+        "images": {},
+        "videos": {},
+        "updated": 1746625801,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-a6d30b82-2d61-4448-ad0d-cbaad1f9d24e",
+      "indent": 1,
+      "location": "pages/item-a6d30b82-2d61-4448-ad0d-cbaad1f9d24e/index.html",
+      "slug": "copy-of-copy-of-welcome-to-satee-copy-copy/copy-of-copy-of-welcome-to-satee-copy-copy",
+      "order": 0,
+      "parent": "item-2b61d2fb-8562-46ff-a87d-fbef9591254f",
+      "title": "Copy of Copy of Welcome to satee Copy Copy",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1746625700,
+        "images": [],
+        "videos": [],
+        "updated": 1746625801,
+        "published": true,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-ed2221a1-9807-4d2b-894b-a794906a3154",
+      "indent": 2,
+      "location": "pages/item-ed2221a1-9807-4d2b-894b-a794906a3154/index.html",
+      "slug": "copy-of-copy-of-welcome-to-satee-copy-copy/copy-of-copy-of-welcome-to-satee-copy-copy/copy-of-copy-of-copy-of-welcome-to-satee-copy-copy",
+      "order": 0,
+      "parent": "item-a6d30b82-2d61-4448-ad0d-cbaad1f9d24e",
+      "title": "Copy of Copy of Copy of Welcome to satee Copy Copy",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1746625700,
+        "images": [],
+        "videos": [],
+        "updated": 1746625801,
+        "published": true,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-a64288c2-b676-40f2-ab07-f5ca1058c086",
+      "indent": 1,
+      "location": "pages/item-a64288c2-b676-40f2-ab07-f5ca1058c086/index.html",
+      "slug": "copy-of-copy-of-welcome-to-satee-copy-copy/copy-of-copy-of-copy-of-welcome-to-satee-copy-copy",
+      "order": 1,
+      "parent": "item-2b61d2fb-8562-46ff-a87d-fbef9591254f",
+      "title": "Copy of Copy of Copy of Welcome to satee Copy Copy",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1746625700,
+        "images": [],
+        "videos": [],
+        "updated": 1746625801,
+        "published": true,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-7d005bcc-25c6-4066-aa3f-1dbe8e75920e",
+      "indent": 2,
+      "location": "pages/item-7d005bcc-25c6-4066-aa3f-1dbe8e75920e/index.html",
+      "slug": "copy-of-copy-of-welcome-to-satee-copy-copy/copy-of-copy-of-copy-of-welcome-to-satee-copy-copy/copy-of-copy-of-copy-of-copy-of-welcome-to-satee-copy-copy",
+      "order": 0,
+      "parent": "item-a64288c2-b676-40f2-ab07-f5ca1058c086",
+      "title": "Copy of Copy of Copy of Copy of Welcome to satee Copy Copy",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1746625700,
+        "images": [],
+        "videos": [],
+        "updated": 1746625801,
+        "published": true,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-1dd5aae3-a2e6-4b93-b063-5200c222c89e",
+      "indent": 0,
+      "location": "pages/item-1dd5aae3-a2e6-4b93-b063-5200c222c89e/index.html",
+      "slug": "page",
+      "order": 0,
+      "parent": null,
+      "title": "Intro Perkenalan",
+      "description": "\n\n    I bring you\n      \n    the death\n\n    I bring you\n      \n    the death\nWelcome to satu\n\n",
+      "metadata": {
+        "created": 1746625777,
+        "updated": 1746626164,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "theme": {
+          "element": "haxcms-blank-theme",
+          "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
+          "name": "Blank theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "haxcms-blank-theme"
+        },
+        "pageType": "connection",
+        "hideInMenu": false,
+        "image": "https://images-assets.nasa.gov/image/KSC-20220815-PH-KLS01_0016_/KSC-20220815-PH-KLS01_0016_~medium.jpg",
+        "accentColor": "pink",
+        "readtime": 1,
+        "icon": "courseicons:chem-connection"
+      }
+    }
+  ]
+}
