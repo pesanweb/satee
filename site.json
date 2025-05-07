@@ -291,15 +291,27 @@
       "indent": 0,
       "location": "pages/item-c378b7d6-43b7-4dcb-ad44-43a367b9a1ed/index.html",
       "slug": "page-1",
-      "order": 1,
+      "order": 2,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "header",
+      "description": "\n  \n    \n      Humayun.K\n\n    \n\n    \n    ☰\n    \n      Home\n\n      Skills\n\n      Projects\n\n      Connect\n\n    \n\n  \n\n\n",
       "metadata": {
         "created": 1746658274,
-        "updated": 1746658274,
-        "images": [],
-        "videos": []
+        "updated": 1746658403,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "haxcms-blank-theme",
+          "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
+          "name": "Blank theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "haxcms-blank-theme"
+        },
+        "published": true,
+        "hideInMenu": false,
+        "accentColor": "red",
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
