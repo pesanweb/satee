@@ -5,20 +5,33 @@
   "description": "own course",
   "license": "by-sa",
   "metadata": {
-    "author": {},
+    "author": {
+      "image": "",
+      "name": null,
+      "email": null,
+      "socialLink": null
+    },
     "site": {
       "name": "satee",
       "logo": "assets/banner.jpg",
       "settings": {
         "lang": "en-US",
-        "publishPagesOn": true
+        "publishPagesOn": true,
+        "pathauto": false,
+        "sw": false,
+        "forceUpgrade": false,
+        "gaID": null
       },
       "created": 1746625652,
-      "updated": 1746625801,
+      "updated": 1746658684,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
-      }
+      },
+      "version": "10.0.2",
+      "domain": null,
+      "tags": null,
+      "static": {}
     },
     "theme": {
       "element": "clean-one",
@@ -26,9 +39,17 @@
       "name": "Clean course theme",
       "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
       "variables": {
-        "icon": "av:stop",
+        "image": "",
+        "imageAlt": null,
+        "imageLink": null,
         "hexCode": "#3f51b5",
-        "cssVariable": "--simple-colors-default-theme-light-blue-7"
+        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "icon": "av:stop"
+      },
+      "regions": {
+        "header": [
+          "item-c378b7d6-43b7-4dcb-ad44-43a367b9a1ed"
+        ]
       }
     },
     "node": {
