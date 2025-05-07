@@ -5,7 +5,7 @@
     {
       "scopes": {
         "./custom/build/": {
-          "@haxtheweb/": "https://cdn.hax.cloud/cdn/build/es6/node_modules/@haxtheweb/"
+          "@haxtheweb/": "./build/es6/node_modules/@haxtheweb/"
         }
       }
     }
@@ -77,7 +77,6 @@
   <meta name="twitter:image" property="twitter:image" content="" />
   <meta rel="cc:license" href="https://creativecommons.org/licenses/by-sa/4.0/" content="License: Creative Commons: Attribution Share a like"/>
   
-
   <!-- Service worker disabled via settings -->
   <style>
     body {
@@ -105,10 +104,6 @@
       min-height: 50px;
       min-width: 200px;
     }
-
-
-
-
   </style>
   <style id="loadingstyles">
     haxcms-site-builder {
@@ -229,12 +224,6 @@
       }, 300);
     });
   </script>
-
-    <!-- <link rel="preload" href="src/output.css" as="style" /> -->
-    <!-- <link rel="stylesheet" href="src/output.css"> -->
-    <link rel="stylesheet" type="text/css" href="src/output.css">
-  
-  
 </head>
 <body vocab="http://schema.org/" prefix="oer:http://oerschema.org cc:http://creativecommons.org/ns dc:http://purl.org/dc/terms/">
   <section role="alert" id="loading" aria-busy="true">
@@ -243,10 +232,6 @@
       <h1>Loading..</h1>
     </div>
   </section>
-
-
-
-
   <haxcms-site-builder id="site" file="site.json?2GQKWcJ3ni0xrL2X4_Dw_Sr9SeXqY2Sk3XblmvHVArA"></haxcms-site-builder>
   <script>
     globalThis.MicroFrontendRegistryConfig = globalThis.MicroFrontendRegistryConfig || {};
